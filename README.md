@@ -10,9 +10,9 @@ This project is being developed to help first time open source contributors.
 - Install missing dependencies:
   `npm install`
 - Start the development server:
-  `npm start`
-- Build your app for production:
-  `npm run build`
+  `npm run dev`
+
+NOTE: Make sure your Node version is 20 or above and NPM version is 8 or above
 
 
 ## Extra:
