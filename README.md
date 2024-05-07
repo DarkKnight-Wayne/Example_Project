@@ -1,4 +1,17 @@
-# React + Vite
+# Description
+
+This project is being developed to help first time open source contributors.
+
+## Setting up this project:
+- Install NodeJS
+- Clone this repo in a new folder in your computer
+- Start the development server:
+  `npm start`
+- Build your app for production:
+  `npm run build`
+
+
+## Extra:
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
