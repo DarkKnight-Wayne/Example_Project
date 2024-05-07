@@ -5,6 +5,10 @@ This project is being developed to help first time open source contributors.
 ## Setting up this project:
 - Install NodeJS
 - Clone this repo in a new folder in your computer
+
+  Commands for terminal
+- Install missing dependencies:
+  `npm install`
 - Start the development server:
   `npm start`
 - Build your app for production:
