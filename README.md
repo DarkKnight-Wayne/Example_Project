@@ -2,6 +2,8 @@
 
 This project is being developed to help first time open source contributors.
 
+TECH STACK: REACT, MONGODB
+
 ## Setting up this project:
 - Install NodeJS
 - Fork this repo
