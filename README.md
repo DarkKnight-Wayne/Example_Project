@@ -4,7 +4,8 @@ This project is being developed to help first time open source contributors.
 
 ## Setting up this project:
 - Install NodeJS
-- Clone this repo in a new folder in your computer
+- Fork this repo
+- Clone the forked repo in a new folder in your computer
 
   Commands for terminal
 - Install missing dependencies:
